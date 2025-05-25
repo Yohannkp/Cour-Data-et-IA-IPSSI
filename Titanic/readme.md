@@ -1,4 +1,4 @@
-# Résum du projet
+# Résumé du projet
 
 ## Objectif
 L'objectif de ce projet est d'analyser les données du Titanic, de les préparer pour l'entraînement de modèles de machine learning, et d'évaluer plusieurs algorithmes de classification pour prédire la survie des passagers.
